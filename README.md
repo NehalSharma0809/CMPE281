@@ -1,7 +1,9 @@
 ## Mobile Testing as a Service (MTaaS Platform)
 
-### Introduction and Objective:
+### Introduction: 
+This project discusses the comprehensive design, implementation and validation of the functional components of a crowd sourced mobile testing as a service platform. Elastic provisioning of mobile device emulators, running test scripts in cloud on Android Virtual Devices using Appium server, Tester and Project Management Community, Google map view of testers locations, cost metrics based on resource consumption and bug severity and PayPal and Chatkit Pusher Integrations are the salient features of our application.
 
+### Objectives:
 1) To build a scalable crowd based testing community that consists of project managers and crowd testers.
 2) The administrator manages the infrastructures requirements such as hardware, network and bandwidth.
 3) Tester and Project oriented Community services to facilitate communication and collaborative learning
