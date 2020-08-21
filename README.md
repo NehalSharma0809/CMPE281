@@ -15,4 +15,16 @@
 
 ### System Diagram:
 
+[](SystemDesign.png)
 
+### Database Design Diagram:
+
+[](Database.png)
+
+### Application Performance Graphs:
+
+[](Test.png)
+
+### User Interface Function Partition Diagram:
+
+[](UI.png)
